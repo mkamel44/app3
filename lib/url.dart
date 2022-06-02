@@ -6,5 +6,5 @@ class URL{
   final aboutUsUrl="https://www.google.co.in/";
   final privacyPolicyUrl="https://www.google.co.in/";
   final termsConditionsUrl="https://www.google.co.in/";
-  final webViewUrl="https://epsilonitservice.com/";
+  final webViewUrl="http://portal.health-dar.com";
 }
